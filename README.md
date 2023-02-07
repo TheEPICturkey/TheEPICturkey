@@ -2,7 +2,6 @@ Grocery Worker turned Software Developer
 🌱 Attending Epicodus for Web/App full stack development
 I'm passionate about:
 🎓 Education Software
-🌏 Geographic Accessibility
 📝 Learning
 Interests:
 🎮 Video Games
