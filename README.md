@@ -10,9 +10,6 @@ Interests:
 😺 Animals
 
 
-Find me all around the web:
-        
-      <a href=https://www.linkedin.com/in/brandon-m-spear/>Linkedin</a>
    
 
 <img src="https://github-readme-stats.vercel.app/api?username=TheEPICturkey&show_icons=true&theme=ADD_THEME_HERE" width="400">
