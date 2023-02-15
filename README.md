@@ -2,6 +2,7 @@
 <h3 align="center">A passionate software deveoper student from Seattle, Washington.</h3>
 
 🌱 Attending Epicodus for Web/App full stack development
+<br>
 I'm passionate about:
 🎓 Education Software
 🌏 Geographic Accessibility
