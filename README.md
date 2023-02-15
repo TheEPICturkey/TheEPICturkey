@@ -3,8 +3,8 @@
 
 🌱 Attending Epicodus for Web/App full stack development
 <br>
-<br>
 I'm passionate about:
+<br>
 🎓 Education Software
 🌏 Geographic Accessibility
 📝 Learning
