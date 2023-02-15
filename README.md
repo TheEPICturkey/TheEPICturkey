@@ -1,4 +1,6 @@
-Grocery Worker turned Software Developer
+<h1 align="center">Hi 👋, I'm Brandon Spear</h1>
+<h3 align="center">A passionate software deveoper student from Seattle, Washington.</h3>
+
 🌱 Attending Epicodus for Web/App full stack development
 I'm passionate about:
 🎓 Education Software
@@ -10,13 +12,6 @@ Interests:
 😺 Animals
 
 
-   
-
-<img src="https://github-readme-stats.vercel.app/api?username=TheEPICturkey&show_icons=true&theme=ADD_THEME_HERE" width="400">
-
-
-<h1 align="center">Hi 👋, I'm Brandon Spear</h1>
-<h3 align="center">A passionate software deveoper student from Seattle, Washington.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theepicturkey&label=Profile%20views&color=0e75b6&style=flat" alt="theepicturkey" /> </p>
 
